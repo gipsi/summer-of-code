@@ -113,10 +113,6 @@
 # = 87740
 # print(30507840+87740)
 # = 305995580
-#
-
-
-
 
 
 # Andreea Visanoiu: I'm 48618000 seconds old hahaha.  Calculate @Andreea Visanoiu's age.
