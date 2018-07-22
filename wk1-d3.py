@@ -194,3 +194,6 @@ name1 = input('Enter your first name: ')
 name2 = input('Enter your middle name: ')
 name3 = input('Enter your last name: ')
 print('Hello', name1 + ' ' + name2 + ' ' + name3)
+
+bestnumber = input('Enter your favourite number: ')
+print('Perhaps a better number is?', int(bestnumber) + 1)
