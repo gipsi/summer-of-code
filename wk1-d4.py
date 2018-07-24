@@ -23,7 +23,7 @@
 
 # Looping
 
-#while loop
+# while loop
 # input = ''
 # while input != 'bye':
 # input = input()
@@ -35,7 +35,7 @@
 
 # went back to watch video
 
-#text = ""
+# text = ""
 # while text != "bye";
 # text = input("say something please")
 #  if text == "bye":
