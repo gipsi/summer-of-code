@@ -52,7 +52,42 @@
 
 # NOTE: todo, how do I remove 'you said'
 
+
+
 # shorter
+
+# while loop
+
+# text = ""
+# while text != "bye":
+#   text = input("say something please : ")
+#   print("you said\"" + text + "\".")
+# can use both types but double quotes are slightly more robust
+# however if you dont want to worry about escaping
+#   print('you said"' + text + '".')
+# print("good by to you to!")
+
+# NOTE: todo, how do I remove 'you said'
+
+# shorter
+
+# text = ""
+# while text != "bye":
+#   text = input("say something please : ")
+#   print("you said" + "" + text + "\".")
+
+# print("good by to you to!")
+
+# where I got stuck!
+text = ""
+while text != "bye":
+  text = input("say something please"" ")
+  print("you said" + "" + text + ".")
+if text == "bye": 
+  print("good by to you to!")
+else:
+  print(" but you said" + "" + text + ".")
+# where I got stuck!
 
 # text = ""
 # while text != "bye":
@@ -135,3 +170,36 @@ if text == "bye":
 
 # somehow I lost some lines in the editor so had to 
 # undo them to get back - time for a break!
+
+# while loop
+
+# text = ""
+# while text != "bye":
+#   text = input("say something please : ")
+#   print("you said\"" + text + "\".")
+# can use both types but double quotes are slightly more robust
+# however if you dont want to worry about escaping
+#   print('you said"' + text + '".')
+# print("good by to you to!")
+
+# NOTE: todo, how do I remove 'you said'
+
+# shorter
+
+# text = ""
+# while text != "bye":
+#   text = input("say something please : ")
+#   print("you said" + "" + text + "\".")
+
+# print("good by to you to!")
+
+# where I got stuck!
+text = ""
+while text != "bye":
+  text = input("say something please"" ")
+  print("you said" + "" + text + ".")
+if text == "bye": 
+  print("good by to you to!")
+else:
+  print(" but you said" + "" + text + ".")
+# where I got stuck!
