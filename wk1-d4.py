@@ -38,6 +38,41 @@
 # text = ""
 # while text != "bye";
 # text = input("say something please")
+
+# while loop
+
+# text = ""
+# while text != "bye":
+#   text = input("say something please : ")
+#   print("you said\"" + text + "\".")
+# can use both types but double quotes are slightly more robust
+# however if you dont want to worry about escaping
+#   print('you said"' + text + '".')
+# print("good by to you to!")
+
+# NOTE: todo, how do I remove 'you said'
+
+# shorter
+
+# text = ""
+# while text != "bye":
+#   text = input("say something please : ")
+#   print("you said" + "" + text + "\".")
+
+# print("good by to you to!")
+
+# trying to remove the "you said" bit when the return is bye
+
+# where I got stuck!
+text = ""
+while text != "bye":
+  text = input("say something please"" ")
+  print("you said" + "" + text + ".")
+if text == "bye": 
+  print("good by to you to!")
+else:
+  print(" but you said" + "" + text + ".")
+# where I got stuck!
 #  if text == "bye":
 #    print("good by to you to!")
 
