@@ -119,3 +119,23 @@ for i in range(99, 0, -1):
 	
 # the "Hello World" of programming paradigms
 #
+
+# aND NOW FOR SOMETHING COMPLETELY DIFFERENT 
+
+# print ("Hello Grandma!")
+
+# text = ""
+# while text != "bye":
+#   text = input("say something please")
+#   if text == "bye":
+#    print("good by to you to!")
+   
+text = ""
+while text != "bye":
+  text = input("")
+  if text == "hello grandma":
+   print("HUH? SPEAK UP, GIRL")
+  elif text == "HELLO GRANDMA": 
+   print("NO, NOT SINCE 1938!")
+  elif text == "bye":
+   print("OK, BYE") 
