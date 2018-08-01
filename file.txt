@@ -1,0 +1,15 @@
+loving 
+eclipse
+dark
+vision
+=
+I don't have it - the file
+
+#test the split() method
+
+#testing non-alphabetic characters
+filing.file 
+commaing, commaing
+
+innovating-waterskiing!smiling.panicking marvellous
+pythoning
